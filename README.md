@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Bhuvanesh Dorle 👋</h1>
-<h3 align="center">Full-Stack Developer • Algo-Trading Systems • AI Agents</h3>
+<h3 align="center">Full-Stack Developer • AI Agents • Algo-Trading Systems</h3>
 
 <p align="center">
-  I build full-stack apps, algorithmic trading systems, and AI-powered automation.<br/>
+  I build full-stack apps, AI-powered automation and algorithmic trading systems.<br/>
   CSE @ YCCE &nbsp;|&nbsp; Microsoft Azure Certified.
 </p>
 
