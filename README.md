@@ -9,12 +9,11 @@
 ---
 
 ### 🚀 What I'm building
-- 📈 **Algorithmic trading engines** in Python (PEAD detection, options & natural-gas strategies)
-- 🤖 **AI agents & automation bots** (WhatsApp / Telegram / X)
-- 🌐 **Full-stack web apps** with the MERN stack & TypeScript
+- 📈 **Algorithmic trading engines**
+- 🤖 **AI agents & automation bots**
+- 🌐 **Full-stack web apps**
 
 ### 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -24,6 +23,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ### 🌐 Connect with me
