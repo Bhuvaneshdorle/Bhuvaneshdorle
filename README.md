@@ -10,7 +10,7 @@
 
 ### 🚀 What I'm building
 - 🌐 **Full-stack web apps**
-- - 🤖 **AI agents & automation harness**
+- 🤖 **AI agents & automation harness**
 - 📈 **Algorithmic trading engines**
 
 
