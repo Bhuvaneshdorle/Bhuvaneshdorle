@@ -9,9 +9,11 @@
 ---
 
 ### 🚀 What I'm building
-- 📈 **Algorithmic trading engines**
-- 🤖 **AI agents & automation bots**
 - 🌐 **Full-stack web apps**
+- - 🤖 **AI agents & automation harness**
+- 📈 **Algorithmic trading engines**
+
+
 
 ### 🛠️ Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
